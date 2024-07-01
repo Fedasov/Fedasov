@@ -11,7 +11,7 @@ I am a meticulous and purposeful undergraduate student, I am fond of programming
 I am currently studying at the BMSTU at the Department of Mechanical Engineering Technologies (Bachelor's degree program). My experience includes taking various retraining and advanced training courses:
 1. **Web developer (VK company)**
    
-   During the training, the "Questions and Answers" service was written in the Python Django framework (<a href="https://github.com/Fedasov/Question-Answer">project</a>), as well as the courses "Algorithms and data structures", "System Design", "DBMS", "Frontend development" and "Interface Design". Also, during the training process, my team was engaged in the development of a MailHub startup (<a href="https://github.com/go-park-mail-ru/2024_1_Refugio">project</a>), in which I was engaged in Backend development in the Golang language.
+   During the training, the "Questions and Answers" service was written in the Python Django framework (<a href="https://github.com/Fedasov/Question-Answer">project</a>), as well as the courses "Algorithms and data structures", "System Design", "DBMS", "Frontend development" and "Interface Design". Also, during the training process, my team was engaged in the development of a MailHub startup (<a href="https://github.com/Fedasov/MailHub">project</a>), in which I was engaged in Backend development in the Golang language.
 2. **Web developer (Digital Department BMSTU)**
 
    During the training process, the "Kinopoisk" service was written in Python Django framework(<a href="https://github.com/Fedasov/DC_project">project</a>)
