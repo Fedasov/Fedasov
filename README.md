@@ -58,7 +58,6 @@ I am currently studying at the BMSTU at the Department of Mechanical Engineering
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fedasov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fedasov&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fedasov&theme=solarized_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedasov&hide=javascript,css,scss,html&theme=tokyonight)
 
 <h2 align="center">Interesting facts about me: ✨ I love programming + sports + phonk✨</h2>
 <h2 align="center">Connect with me! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/></h2>
