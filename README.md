@@ -11,7 +11,7 @@ I am a meticulous and purposeful undergraduate student, I am fond of programming
 I am currently studying at the BMSTU at the Department of Mechanical Engineering Technologies (Bachelor's degree program). My experience includes taking various retraining and advanced training courses:
 1. **Web developer (VK company)**
    
-   During the training, the "Questions and Answers" service was written in the Python Django framework (<a href="https://github.com/Fedasov/Question-Answer">project</a>), as well as the courses "Algorithms and data structures", "System Design", "DBMS", "Frontend development" and "Interface Design". Also, during the training process, my team was engaged in the development of a MailHub startup (<a href="https://github.com/Fedasov/MailHub">project</a>), in which I was engaged in Backend development in the Golang language.
+   During the training, the "Questions and Answers" service was written in the Python Django framework (<a href="https://github.com/Fedasov/Question-Answer">project</a>), as well as the courses "Algorithms and data structures", "System Design", "DBMS", "Frontend development" and "Interface Design". Also, during the training process, my team was engaged in the development of a MailHub startup (<a href="[https://github.com/Fedasov/MailHub](https://github.com/go-park-mail-ru/2024_1_Refugio)">project</a>), in which I was engaged in Backend development in the Golang language.
 2. **Web developer (Digital Department BMSTU)**
 
    During the training process, the "Kinopoisk" service was written in Python Django framework(<a href="https://github.com/Fedasov/DC_project">project</a>)
@@ -53,6 +53,13 @@ I am currently studying at the BMSTU at the Department of Mechanical Engineering
 <br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Fedasov&theme=react-dark&hide_border=true&area=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedasov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedasov)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedasov)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Fedasov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fedasov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fedasov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fedasov&theme=solarized_dark)
 
 <h2 align="center">Interesting facts about me: ✨ I love programming + sports + phonk✨</h2>
 <h2 align="center">Connect with me! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/></h2>
