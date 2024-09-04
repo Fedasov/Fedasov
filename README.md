@@ -45,16 +45,10 @@ I am currently studying at the BMSTU at the Department of Mechanical Engineering
 </summary>
 <br/>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fedasov&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedasov&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
-</details>
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Fedasov&theme=react-dark&hide_border=true&area=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedasov)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fedasov&theme=solarized_dark)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Fedasov&theme=react-dark&hide_border=true&area=true)
 
 <h2 align="center">Interesting facts about me: ✨ I love programming + sports + phonk✨</h2>
 <h2 align="center">Connect with me! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="25"/></h2>
