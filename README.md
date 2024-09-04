@@ -45,7 +45,7 @@ I am currently studying at the BMSTU at the Department of Mechanical Engineering
 </summary>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedasov)](https://github.com/anuraghazra/github-readme-stats&bg_color=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedasov)](https://github.com/anuraghazra/github-readme-stats&theme=algolia)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fedasov&theme=solarized_dark)
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Fedasov&theme=react-dark&hide_border=true&area=true)
 
