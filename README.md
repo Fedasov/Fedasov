@@ -32,11 +32,22 @@ I am currently studying at the BMSTU at the Department of Mechanical Engineering
 
 ### Database
 
-<img src="https://skillicons.dev/icons?i=postgres,mongo,redis"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongo,redis,elasticsearch"/>
+<img width="46" src="svg/logo.svg"/>
 
 ## Tools
 
 <img src="https://skillicons.dev/icons?i=git,grafana,prometheus,docker,linux,bash,django"/>
+
+## Projects
+
+| Name                                                                | Image                                         | Description                                                                                                                                                                           |
+|---------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Mailhub](https://github.com/go-park-mail-ru/2024_1_Refugio)        | ![mailhub.png](svg/mailhub.png)               | Mailhub is a universal email system, offering secure and flexible message exchange for every user                                                                                     |
+| [Кинопоиск](https://github.com/Fedasov/DC_project)                  | ![kinopoisk.png](svg/kinopoisk.png)           | A web application with sections on cartoons and movies for all ages with content filtering (to broaden horizons and proper parenting)                                                 |
+| [Highload Ozon](https://github.com/Fedasov/Highload_Ozon) | ![highload_ozon.png](svg/highload_ozon.png)   | Calculation and explanatory note to the course work on the discipline "Design of high-load systems" Educational Center VK x Bauman Moscow State Technical University (ex. Technopark) |
+| [Question-Answer](https://github.com/Fedasov/Question-Answer)       | -                                             | Question-Answer is a platform where you can ask questions and get answers from other users                                                                                            |
+| [HTTPProxy](https://github.com/Fedasov/HTTPProxy)                   | -                                             | Proxy server for proxying http and https requests                                                                                                                                     |
 
 <details open="">
 <summary>
